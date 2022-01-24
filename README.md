@@ -1,4 +1,4 @@
-M5-Stick-C + Sdcard logger for Gyroflow
+M5-Stick-C + Sdcard logger for Gyroflow ( WIP)
 
 
 Baseed on:
